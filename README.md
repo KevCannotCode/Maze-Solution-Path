@@ -3,3 +3,4 @@ This Maze Solution Path program uses depth-first search to find and display a pa
 Run instruction: The Maze class has a main program. When running it, you will need to provide program arguments
 such as following:
 String arg [] = --read filelename --solve
+You may fine the maze text files in the lib folder
